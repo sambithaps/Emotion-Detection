@@ -10,6 +10,7 @@ Used Adam and RMSprop optimizer to increase the
 accuracy of the model
 
 Data was used from Kaggle which is a freely available platform for data scientists.
+
 Data-https://www.kaggle.com/datasets/msambare/fer2013
 
 ## Technologies used in the project
